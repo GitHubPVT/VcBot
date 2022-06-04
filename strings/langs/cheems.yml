@@ -70,7 +70,7 @@ admin_27 :  "Loomp plamy has beemn disambled"
 
 # Start
 start_1 : "Thamnks for havimng me in {0}.\n{1} is alimve.\n\nFor any assimstance chemk hemlp"
-start_2 : "Hemllo, my name is {0}.\n\nIm'm a telemgram streaming bot wimth some usemful feamtures. Suppomrting Plamtforms limke youmtube, spomtify, remsso, applemusimc , soumndcloud etc.\n\nFeeml freem to add me to youmr groumps."
+start_2 : "Hemllo Peeps, Nimce to meemt you.\nWemll I'm {0}.\n\nI camn smtream amnythimg on VC from youmtube, spomtify, remsso, applemusimc , soumndcloud etc.\n\nFeeml freem to add me to youmr groumps."
 start_3 : "Wemlcome to {0}\n\nI domn't neemd any **amdmin permissiomn** to womrk (untiml askemd for).\n\nAmssistant usemrname:- @{1}\nAmssistant id:- {2}" 
 start_4 : "{0}'s ownemr[{1}] has jumst joimned youmr chamt." 
 Start_5 : "A membemr of {0}'s sumdo usemr[{1}] has jumst joimned youmr chamt."
@@ -78,7 +78,7 @@ start_6 : "❗️ **Sumpergroup Neemded** ❗️\n\nPleamse convemrt youmr **gro
 start_7 : "**Blamcklisted Chamt**\n\nYou're chamt has beemn blamcklisted by the bot. Pleamse ask any sudoumser to whimtelist chamt fimrst. chemck [sumdolist from herem]({0})" 
 
 # Help
-help_1 : "Climck on the buttomns belomw for morem infomrmation. If youm're facimng any promblem in command you can contamct my bot ownemr or ask in suppomrt chamt.\n\nAll commands can be usemd wimth: /" 
+help_1 : "Climck on the buttomns belomw for morem infomrmation. If youm're facimng any promblem in command you can contamct my bot ownemr\n\nAll commands can be usemd wimth: /" 
 help_2 : "Comntact me in pm for hemlp."
 
 # Settings
@@ -195,7 +195,7 @@ lyrics_3 : "❌ Faimled to femtch lyrimcs Sed !!.\n\n💡**Tried seamrching fomr
 lyrics_4 : "Climck on the buttomn belomw and get seamrched lyrimcs in private messaging." 
 
 #Ping
-ping_1 : "Pomng!!!!"
+ping_1 : "Pomng !!"
 ping_2 : "{0} is workimng goomd wimth a pimng of `{1}` ms.\n\nBomt's uptime is {2} and has usemd a totaml of {3} servemr's stomrage. Cpu loamd is aboumt {4} wimth a consumptiomn of {5} ram. Py-tgcamlls cliemnt is alsom havimg a goomd pimng of `{6}` ms." 
 
 # Song
