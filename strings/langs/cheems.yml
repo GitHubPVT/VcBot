@@ -70,7 +70,7 @@ admin_27 :  "Loomp plamy has beemn disambled"
 
 # Start
 start_1 : "Thamnks for havimng me in {0}.\n{1} is alimve.\n\nFor any assimstance chemk hemlp"
-start_2 : "Hemllo Peeps, Nimce to meemt you.\nWemll I'm {0}.\n\nI camn smtream amnythimg on VC from youmtube, spomtify, remsso, applemusimc , soumndcloud etc.\n\nFeeml freem to add me to youmr groumps."
+start_2 : "Hemllo !! Nimce to meemt you.\nWemll I'm {0}.\n\nI camn smtream amnythimg on VC from youmtube, spomtify, remsso, applemusimc , soumndcloud etc.\n\nFeeml freem to add me to youmr groumps."
 start_3 : "Wemlcome to {0}\n\nI domn't neemd any **amdmin permissiomn** to womrk (untiml askemd for).\n\nAmssistant usemrname:- @{1}\nAmssistant id:- {2}" 
 start_4 : "{0}'s ownemr[{1}] has jumst joimned youmr chamt." 
 Start_5 : "A membemr of {0}'s sumdo usemr[{1}] has jumst joimned youmr chamt."
@@ -136,7 +136,7 @@ cplay_6 : "youm neemd to be the **omwner** of the chamnnel[{0}] to connemct it w
 
 
 #Play
-play_1 : "🔄 Promcessing Quemry... Pleamse Waimt!"
+play_1 : "🔄 Promcessing Quemry... Pleamse Waimt !!"
 play_2 : "**🏷Chamnnel Plamy Modem**\n\n🔄 Promcessing Quemry... Pleamse Waimt!\n**Linked chamnnel:** {0}"
 play_3 : "Faimled to promcess quemry!" 
 play_4 : "🖇 **Amdmins only plamy**\nOnly admins and auth usemrs can plamy musimc in thims groump.\n\nChange momde via /playmode and if youm're alreamdy admin, reloamd admincamche via /admincache" 
